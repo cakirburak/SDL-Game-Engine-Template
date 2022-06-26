@@ -1,1 +1,1 @@
-# SDL-Game-Engine-Template
+# sdl-game-engine
