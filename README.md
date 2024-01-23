@@ -1,4 +1,5 @@
 # SDL 2D Game Engine Template
+An SDL2-based 2D game development template providing a streamlined codebase for developers to kickstart their projects with ease.
 
 ## How To Use
 
